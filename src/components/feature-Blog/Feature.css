@@ -1,0 +1,13 @@
+.feature{
+    width:300px;
+    border-top: 5px solid black;
+    padding-right: 10px;
+    /* font-family: "Titillium Web", "Helvetica Neue", Helvetica, Arial, sans-serif; */
+}
+.feature img{
+    width: 120px;
+}
+.feature h2{
+    margin-top: 10px;
+    font-size: 0.9rem;
+}
